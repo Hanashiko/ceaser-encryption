@@ -16,4 +16,4 @@ def caesar_cipher(text):
 
 plaintext = input().lower()
 ciphertext = caesar_cipher(plaintext)
-print(f"Зашифрований текст: {ciphertext}")
+print(f"Encrypted text: {ciphertext}")
